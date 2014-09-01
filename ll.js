@@ -104,6 +104,7 @@ removeFirst: function() {
   this.removeIndex( 0 );
 },
 
+
 removeLast: function() {
   this.removeIndex( this.length - 1 );
 },
